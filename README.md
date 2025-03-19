@@ -1,4 +1,4 @@
 # BurnAfterReading
 ## 阅后即焚<br><br>
-### 一个基于cloud flare workers的用于防止某些聊天软件进行内容审查的小玩意<br><br>
+### A gadget based on cloud flare workers to prevent content censorship in some chat software<br><br>
 https://burn-after-reading.orangebeta.workers.dev/
